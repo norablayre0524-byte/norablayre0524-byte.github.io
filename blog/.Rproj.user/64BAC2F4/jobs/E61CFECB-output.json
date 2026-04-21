@@ -1,0 +1,7 @@
+[1,"==> quarto preview --render all --no-watch-inputs --no-browse\n\n"]
+[1,"Rendering:\n\r[1/4] about.qmd\n"]
+[1,"\r[2/4] index.qmd\n"]
+[1,"\r[3/4] posts\\post-with-code\\index.qmd\n"]
+[1,"\r[4/4] posts\\welcome\\index.qmd\n"]
+[1,"\nWatching files for changes\nBrowse at http://localhost:6020/\nListening on http://127.0.0.1:6020/\n"]
+[1,"GET: /\n"]
