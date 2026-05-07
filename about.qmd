@@ -1,19 +1,20 @@
 ---
-title: "About"
+title: "About Me"
 image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/norablayre0524-byte
 
 ---
 
-About this blog
+My name is Nora Stanley. I'm an undergraduate student at Sewanee:The Univeristy of the South studying biochemistry. This is a compilation of the projects I have made in Dr. Eric Ezell's data storytelling class. The projects utilize R studio and its bookdown, markdown, and shiny features. Before completing these projects, I was completely unfamilliar with this type of data analysis. But, the challenge of learning a new "language" has been suprisingly rewarding. I'm happy to say that I'm proud of my work.
+
+I plan on attending nursing school after Sewanee with a long term goal of entering a CRNA program. I've unjortunately had 3 soccer-related knee surgeries in my life, but for every one I remember the CRNAs making me feel comfortable and giving me knowledge about the profession that only spurred my passion for it. This summer, I am going to be shadowing a CRNA at Vanderbilt Uinversity Medical Center in which I hope my understanding of the field grows further.
+
+That's what I have loved about making these data stories. I get to create a product that could be useful tools for my pursuits. Some of my projects have delved into the environment, mental health, and soccer, all things of strong interest to me. Most of all, though, these projects have illustrated to me the importance of community and unified efforts for nuturing a better future, one that I hope the generations after me can thrive in.
+
+My role in fostering in a better community can combine my tools of visualization with my future profession. While I can complete undergraduate and postgraduate research that contributes to the overall realm of science, more importantly I can use my data visualization skills to improve patient outcomes, establish standards of care, and educate health care providers.
+

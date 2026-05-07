@@ -11,3 +11,5 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+Hi! Welcome to my blog. Here you can see all of my previous work.
+

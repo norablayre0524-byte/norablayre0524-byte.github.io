@@ -6,8 +6,8 @@ categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+This selection gives insights on how meat effects individual health as well as cripples the environment. The meat industry has a big carbon footprint that most people are not aware of. Such a thought can be worrying as meat consumption is a big part of most cultures, but small changes by individuals can compound into great improvements for the future of our world.
 
-```{r}
-1 + 1
-```
+Learn More: https://norablayre0524-byte.github.io/meat/#1 (https://github.com/norablayre0524-byte/meat)
+
+![Source: https://img.freepik.com/premium-photo/modern-meat-processing-plant-with-conveyor-belt-beef-steaks_928695-6771.jpg?w=2000](https://img.freepik.com/premium-photo/modern-meat-processing-plant-with-conveyor-belt-beef-steaks_928695-6771.jpg?w=2000)
